@@ -8,6 +8,8 @@ images_dir = "images"
 javascripts_dir = "js"
 fonts_dir = "fonts"
 
+sass_options = {:sourcemap => true}
+
 output_style = :expanded
 
 # To enable relative paths to assets via compass helper functions. Uncomment:
